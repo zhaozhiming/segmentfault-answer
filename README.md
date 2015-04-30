@@ -1,3 +1,5 @@
 ## Segmentfault Answer
 
-[segmentfault][http://segmentfault.com/questions/newest]
+[segmentfault][segmentfault]
+  
+[segmentfault]: http://segmentfault.com/questions/newest
